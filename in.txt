@@ -1,0 +1,16 @@
+caeser_enc
+3
+Hello World
+caeser_dec
+4
+ABCDEFGHI
+rotate_enc
+Hello World
+rotate_dec
+ABCDEFG
+rotate_enc
+NNNNNNN
+sub_enc
+Hello World
+sub_dec
+ABCDEFG
